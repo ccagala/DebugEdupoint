@@ -1,0 +1,9 @@
+C:\Users\Ragnarok\Desktop\payload2\Professional\Edupoint\Projects\Sorter\Debug\DebugSession\DebugSession\bin\Debug\DebugSession.exe.config
+C:\Users\Ragnarok\Desktop\payload2\Professional\Edupoint\Projects\Sorter\Debug\DebugSession\DebugSession\bin\Debug\DebugSession.exe
+C:\Users\Ragnarok\Desktop\payload2\Professional\Edupoint\Projects\Sorter\Debug\DebugSession\DebugSession\bin\Debug\DebugSession.pdb
+C:\Users\Ragnarok\Desktop\payload2\Professional\Edupoint\Projects\Sorter\Debug\DebugSession\DebugSession\obj\Debug\DebugSession.csprojAssemblyReference.cache
+C:\Users\Ragnarok\Desktop\payload2\Professional\Edupoint\Projects\Sorter\Debug\DebugSession\DebugSession\obj\Debug\DebugSession.Form1.resources
+C:\Users\Ragnarok\Desktop\payload2\Professional\Edupoint\Projects\Sorter\Debug\DebugSession\DebugSession\obj\Debug\DebugSession.csproj.GenerateResource.cache
+C:\Users\Ragnarok\Desktop\payload2\Professional\Edupoint\Projects\Sorter\Debug\DebugSession\DebugSession\obj\Debug\DebugSession.csproj.CoreCompileInputs.cache
+C:\Users\Ragnarok\Desktop\payload2\Professional\Edupoint\Projects\Sorter\Debug\DebugSession\DebugSession\obj\Debug\DebugSession.exe
+C:\Users\Ragnarok\Desktop\payload2\Professional\Edupoint\Projects\Sorter\Debug\DebugSession\DebugSession\obj\Debug\DebugSession.pdb
